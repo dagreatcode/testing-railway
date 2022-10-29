@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Vincent",
+        "userName": "Kendrick",
+        "password": "password",
+        "image": "",
+        "occupation": "Web Developer",
+        "location": "Ga."
+    },
+    {
+        "id": 2,
+        "name": "Barbara",
+        "userName": "Kendrick",
+        "password": "password",
+        "image": "",
+        "occupation": "Fashion Designer",
+        "location": "Ga."
+    }
+]
